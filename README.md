@@ -2,7 +2,7 @@
 
 **Industrial Controller Simulator with C++ and Qt GUI**
 
-![Dashboard Screenshot](Screenshot from 2026-01-05 13-10-14.png)
+![Dashboard Screenshot](Screenshot)
 
 ## Description
 
